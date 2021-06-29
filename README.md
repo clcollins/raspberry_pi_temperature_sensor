@@ -162,7 +162,7 @@ Success!
 
 Now, I have three of these DHT22 sensors, and three Raspberry Pi Zero Ws connected to my Wifi.
 I've installed them into some small project boxes, hot-glued the sensors to the outside, and set them up in my living room, office, and bedroom.
-With this setup, I can collect sensor data from them any time I want, by SSHing into the Raspberry Pi and running this script.
+With this setup, I can collect sensor data from them any time I want by SSHing into the Raspberry Pi and running this script.
 But why stop there?
 Manually SSHing into them each time is tedious and too much work.
 We can do better!
