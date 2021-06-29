@@ -2,7 +2,7 @@
 
 It's HOT!
 
-I suppose one can't complain too much about living in Paradise, but when my wife and I moved to Hawaii last fall, I didn't really think too much about the weather.
+I suppose one can't complain too much about living in Paradise, but when my wife and I moved to Hawai'i last fall, I didn't really think too much about the weather.
 Don't get me wrong, the weather is lovely pretty much all the time, and we keep our windows open 24/7, but that means it is pretty warm in the house right now in the middle of summer.
 
 So where does all this humble bragging intersect with Open Source?
